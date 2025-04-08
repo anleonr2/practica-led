@@ -4,9 +4,9 @@ Aquí tienes el código en **Markdown** correctamente formateado:
 
 ## Pasos para agregar un segundo LED
 
-### 1. Clonar este repositorio o hacer Fork
+### 1. Hacer un Fork del repositorio 
 ```bash
-git clone https://github.com/LuisC-web/practica-led.git
+git clone <url-del-fork>
 ```
 
 ### 2. Crear una nueva rama llamada "agregar-led" y cambiar a ella
